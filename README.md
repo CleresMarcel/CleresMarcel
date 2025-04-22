@@ -1,6 +1,6 @@
-# Hi there, I'm Marcel Cleres - I'm a control and automation engineering student with a focus on Machine Learning, Computer Vision, and Data Science.
+# Hi there, I'm Marcel Cleres - I'm a control and automation engineering student with a focus on Machine Learning, Computer Vision, and Data Science.  My goal is to become an MLOps engineer in the future.
 
-## 🛠️ I have experience with SQL, machine learning, computer vision (Detection and segmentation). I am currently studying NLP and LLMs, along with system integration using Hugging Face, MLflow, Streamlit, among others. My goal is to become an MLOps engineer in the future.
+## 🛠️ I have experience with SQL, machine learning, computer vision (Detection and segmentation). I am currently studying NLP and LLMs, along with system integration using Hugging Face, MLflow, Streamlit, among others.
 
 
 ## 🛠️ Technologies and Tools
