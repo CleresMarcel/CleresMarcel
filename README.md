@@ -22,14 +22,14 @@
 - Model deployment tests
 
 
-## Connect with me:
-
 [<img align="left" alt="CleresMarcel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/marcelcleres/
-[huggin Face]: https://huggingface.co/CleresMarcel
+## 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelcleres/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FF6F00?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/CleresMarcel)
 
 
 
