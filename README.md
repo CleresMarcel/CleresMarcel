@@ -1,17 +1,25 @@
-### Hi there, I'm Marcel Cleres - I'm a control and automation engineering student with a focus on Machine Learning, Computer Vision, and Data Science.
+# Hi there, I'm Marcel Cleres - I'm a control and automation engineering student with a focus on Machine Learning, Computer Vision, and Data Science.
 
-- I am working on my thesis using instance segmentation with a Mask R-CNN and Siamese neural network. I aim to gain experience in creating and deploying classical machine learning, computer vision, and NLP models. My goal is to become an MLOps engineer in the future.
+## 🛠️ I have experience with SQL, machine learning, computer vision (Detection and segmentation). I am currently studying NLP and LLMs, along with system integration using Hugging Face, MLflow, Streamlit, among others. My goal is to become an MLOps engineer in the future.
+
+
+## 🛠️ Technologies and Tools
+
+- **Data Analysis:**  Python (Pandas, NumPy, SciPy), Databricks (learning), SQL
+- **Machine learning:** Supervised learning (regression, classification, random forests, SVM, boosting, KNN), Unsupervised learning (DBSCAN, PCA, t-SNE, K-means), MLP, RNN 
+- **Computer vision** Keras, PyTorch, TensorFlow, OpenCV, YOLO, Mask R-CNN, metric learning, deep metric learning, transfer learning, CNN. 
+- **Methodologies** Ágil (Scrum, Kanban)  
+- **Deploy/integration** Streamlit, Gradio, Hugging Face, MCP (learning)
+- **Cloud** - AWS, AZUREML, Google Cloud Plataform.
 
 
 ## In this GitHub you will find:
 
 - Machine learning projects related to control engineering problems
 - Projects involving classical machine learning for data
-- ADA tech classes
+- Courses and projects from the ADA Tech program
 - Vision model building tests, experiments with PyTorch, TensorFlow
 - Model deployment tests
-
-I intend to keep updating as the projects are completed. Please be patient!
 
 
 ## Connect with me:
