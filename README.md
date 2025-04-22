@@ -5,7 +5,7 @@
 
 ## 🛠️ Technologies and Tools
 
-- **Data Analysis:**  Python (Pandas, NumPy, SciPy), Databricks (learning), SQL
+- **Data Analysis:**  Python (Pandas, NumPy, SciPy), Databricks (learning), SQL, Pyspark (learning)
 - **Machine learning:** Supervised learning (regression, classification, random forests, SVM, boosting, KNN), Unsupervised learning (DBSCAN, PCA, t-SNE, K-means), and neural networks (MLP, RNN)
 - **Computer vision** Keras, PyTorch, TensorFlow, OpenCV, YOLO, Mask R-CNN, metric learning, deep metric learning, transfer learning, CNN. 
 - **Methodologies** Ágil (Scrum, Kanban)  
