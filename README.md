@@ -11,7 +11,7 @@
 - **Methodologies** Ágil (Scrum, Kanban)  
 - **Deploy/integration** Streamlit, Gradio, Hugging Face, MCP (learning)
 - **Cloud** - AWS, AZUREML, Google Cloud Plataform.
-
+- **DevOps** - Git, Github, Docker (learning)
 
 ## In this GitHub you will find:
 
